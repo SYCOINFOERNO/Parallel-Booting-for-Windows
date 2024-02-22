@@ -15,4 +15,5 @@ This Repository will help you install a Linux distro of your choice.
 11) !!IMPORTANT STEP!!  IF YOU HAVE BITLOCKER TURNED ON THEN TURN IT OFF OTHERWISE IT WILL LEAD TO A LOT OF PROBLEMS.                                                                                            
 12) Now, Shut down you computer and plug in your flash drive.
 13) And mostly it will boot into the Installation media.
-14) once it happens follow the 
+14) once it happens, follow the installation instrutions.
+15) And BOOM you have linux.
