@@ -18,6 +18,8 @@ This Repository will help you install a Linux distro of your choice.
 14) once it happens, follow the installation instrutions.
 15) And BOOM you have linux.
 
+How to Disable BitLocker Encryption on Windows 10 and 11
+--> you can use this link " https://www.howtogeek.com/805225/disable-bitlocker/ " 
 
 PS:- Here are links to some Popular Distros of Linux
 
