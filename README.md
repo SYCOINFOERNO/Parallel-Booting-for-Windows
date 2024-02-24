@@ -17,3 +17,14 @@ This Repository will help you install a Linux distro of your choice.
 13) And mostly it will boot into the Installation media.
 14) once it happens, follow the installation instrutions.
 15) And BOOM you have linux.
+
+
+PS:- Here are links to some Popular Distros of Linux
+
+https://www.linuxmint.com/download.php
+https://ubuntu.com/download/desktop
+https://fedoraproject.org/workstation/download/
+https://archlinux.org/download/
+https://www.debian.org/CD/
+https://get.opensuse.org/desktop/
+https://access.redhat.com/downloads And Many more
