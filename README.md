@@ -23,6 +23,8 @@ How to Disable BitLocker Encryption on Windows 10 and 11
 
 PS:- Here are links to some Popular Distros of Linux
 
+You can Use this drive for some of the linux distros -- https://drive.google.com/drive/folders/12Lx71WOuXRDNpjCuwydIUMayleWADHL0?usp=sharing
+
 https://www.linuxmint.com/download.php                                                                       
 https://ubuntu.com/download/desktop                                                                       
 https://fedoraproject.org/workstation/download/                                                                       
